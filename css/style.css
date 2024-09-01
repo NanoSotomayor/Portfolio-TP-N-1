@@ -96,6 +96,7 @@ main {
 
 .face,.tw,.ig,.li {
     font-size: 40px;
+    color: black;
 }
 
 .hero {
@@ -107,10 +108,21 @@ main {
 
 .foto {
     width: 750px;
-
 }
 
 
+
+.cuadro {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    border: 2px solid black;
+    margin: 120px 150px;
+}
+
+.perfect,.quality,.lampara {
+    font-size: 80px;
+}
 
 
 footer {
