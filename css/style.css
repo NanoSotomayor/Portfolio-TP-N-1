@@ -145,6 +145,13 @@ main {
     border-radius: 50px 0 50px 0;
 }
 
+.ux,.web,.app,.graphic {
+    display: flex;
+}
+
+
+
+
 footer {
     background-color: rgb(66,66,66);
 }
